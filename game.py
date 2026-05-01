@@ -8,6 +8,7 @@ import classes
 
 pygame.init()
 print("hello world")
+print("hello world")
 clock = pygame.time.Clock()
 
 surrender_text = "Surrender"
